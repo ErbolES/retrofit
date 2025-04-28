@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lessons11</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="temperature">Температура:</string>
+    <string name="hello_from_thread_fragment">hеllo from service</string>
+</resources>
